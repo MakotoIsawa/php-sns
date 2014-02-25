@@ -1,1 +1,1 @@
-参考：
+参考： http://dotinstall.com/lessons/sns_php_v2
